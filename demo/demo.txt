@@ -1,0 +1,2 @@
+Polynomial regression formula:
+y = 535.528 + -5.40133*x^1 + 0.0160519*x^2
